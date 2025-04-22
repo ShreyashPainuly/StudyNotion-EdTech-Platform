@@ -1,4 +1,5 @@
-# StudyNotion-EdTech-Platform
+
+# StudyNotion - EdTech Platform
 :rocket: [Link to website][https://studynotion-frontend.vercel.app/]
 
 
@@ -127,3 +128,6 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 3. Start the React development server: `npm start`
 
 Access the application in your browser at `http://localhost:3000`.
+
+
+
